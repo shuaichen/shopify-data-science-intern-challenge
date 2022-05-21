@@ -1,2 +1,2 @@
 # shopify-data-science-intern-challenge
-This note book is created fro the shopify data sicence fall intern challenge.
+This note book is created for Shopify data sicence 2022 fall intern challenge.
